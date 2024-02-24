@@ -89,14 +89,14 @@
 
 		<biome name="wasteland">
 		
-			<spawn maxcount="6" respawndelay="7" time="Any"	entitygroup="ZombiesWasteland" notags="commercial,industrial,downtown" />
+			<spawn maxcount="5" respawndelay="7" time="Any"	entitygroup="ZombiesWasteland" notags="commercial,industrial,downtown" />
 			<spawn maxcount="3" respawndelay="7" time="Night" entitygroup="ZombiesWastelandNight" notags="commercial,industrial,downtown" />
 
-			<spawn maxcount="24" respawndelay="7" time="Any" entitygroup="ZombiesWasteland" tags="commercial,industrial" notags="downtown" />
+			<spawn maxcount="20" respawndelay="7" time="Any" entitygroup="ZombiesWasteland" tags="commercial,industrial" notags="downtown" />
 			<spawn maxcount="12" respawndelay="7" time="Night" entitygroup="ZombiesWastelandNight" tags="commercial,industrial" notags="downtown" />
 
-			<spawn maxcount="48" respawndelay="7" time="Any" entitygroup="ZombiesWastelandDowntown" tags="downtown" />
-			<spawn maxcount="32" respawndelay="7" time="Night" entitygroup="ZombiesWastelandDowntown" tags="downtown" />
+			<spawn maxcount="44" respawndelay="7" time="Any" entitygroup="ZombiesWastelandDowntown" tags="downtown" />
+			<spawn maxcount="20" respawndelay="7" time="Night" entitygroup="ZombiesWastelandDowntown" tags="downtown" />
 
 			<spawn maxcount="4" respawndelay="0.3" time="Any" entitygroup="EnemyAnimalsWasteland" spawnDeadChance="0" />
 
